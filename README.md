@@ -21,6 +21,9 @@ Simply add a comment with 'Reserved' in the relevant Book/issue. It's first come
 
 ### Returning a book to the library
   If you do not have privilages to mark the book as available (i.e.'re-open' the issue) just leave a comment stating that you returned it. Of course you are more than welcome to become a contributor and help out in managing the library.
-  
+ 
+### Books with multiple copies
+Books that exist in multiple copies will be deisgnated as such in their title, e.g. **The Lean Startup (1/3) **
+
 ### Labels
   Labels  deisgnate the thematic categories of each book. I just used amazon.com for those. It's just another way to filter and search for books
