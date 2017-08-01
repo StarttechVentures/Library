@@ -27,3 +27,5 @@ Books that exist in multiple copies will be deisgnated as such in their title, e
 
 ### Labels
   Labels  deisgnate the thematic categories of each book. I just used amazon.com for those. It's just another way to filter and search for books
+  
+  **Update:** The default langauge for our library books is English. Books in other langauges, although would be apparent from the title, will have their own label. E.g books in Greek, are labeled as "Ελληνικά"
